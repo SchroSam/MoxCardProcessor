@@ -19,4 +19,4 @@ When running the program, if you are pasting your list of cards into the console
 Make sure to be on a new line and then type -1 to finish inputting your card list. Easy step to forget.
 
 # LICENSE
-Everything in this repo (that isn't a part of <a href="https://github.com/psf/requests">requests</a> or <a href="https://github.com/NandaScott/Scrython">scrython</a>) is free to use for non-commercial purposes. Commercial use requires a separate license and compensation. See the LICENSE file for more details
+Everything in this repo (that isn't or isn't a part of any third party libraries) is free to use for non-commercial purposes. Commercial use requires a separate license and compensation. See the LICENSE file for more details
