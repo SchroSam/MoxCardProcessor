@@ -5,7 +5,7 @@ Python class (with .exe version) which has several useful MTG card parsing and p
 There are no requirements for just the .exe found in the "Build" folder, it should just work, (so long as the .exe is in the same folder as the _internal directory) however if you want to run the program through the .py file in a python3 interpreter, you'll need install the <a href="https://github.com/psf/requests">requests</a> and <a href="https://github.com/NandaScott/Scrython">scrython</a> libraries.
 
 # Formatting
-Card information is accepted in the format of: "[\Quantity] [Card Name] ([Set Code]) [Collector Number]" each seperated by a return.
+Card information is accepted in the format of: "[Quantity] [Card Name] ([Set Code]) [Collector Number]" each seperated by a return.
 
 EX:  
     1 Academy Rector (UDS) 1  
